@@ -41,7 +41,7 @@
 
 1. Клонировать репозиторий:
 
-   git clone https://github.com/ваш_логин/khpk-attendance.git
+   git clone [https://github.com/ваш_логин/khpk-attendance.git](https://github.com/marinus7772/attendance-system)
    cd khpk-attendance
 
 2. Создать виртуальное окружение:
